@@ -1,3 +1,9 @@
+//This code is distributed under the BSD 
+//license and it is a rewrite of code shared 
+//in class CSC431 at DePaul University 
+//by Massimo Di Pierro
+//Rewritten by Haohui Huang & Binfang Qiu
+
 #include <algorithm>
 #include <cmath>
 #include <stdexcept>
